@@ -1,8 +1,8 @@
 {
-  "name": "mi-portafolio",
-  "homepage": "https://MEspinaE.github.io/mi-portafolio",
+  "name": "portafolio.react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://MEspinaE.github.io/portafolio.react",
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
